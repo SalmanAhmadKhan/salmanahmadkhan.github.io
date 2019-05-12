@@ -1,8 +1,8 @@
 # General Settings
-name: Sayak Khatua
-job_title: Research Associate, 3ie
-email: skhatua@3ieimpact.org
-description: Open Science enthusiast working on Impact evaluations and transparency
+name: Salman Khan
+job_title: Graduate Instructor, UIC
+email: skhan275@uic.edu
+description: Ph.D. student in Economics working in applied micro.
 avatar: /assets/pics/sayak_profile.jpeg
 favicon: /assets/icon/analytics-trans.png
 twitter_handler: alvcarril
@@ -12,12 +12,12 @@ disqus: alvarocarril
 # Social Accounts
 social_networks:
 -  { name: facebook, url: '' }
--  { name: twitter, url: 'http://twitter.com/alvcarril' }
+-  { name: twitter, url: 'http://twitter.com/salman_econ' }
 -  { name: instagram, url: 'https://www.instagram.com/alvcarril/' }
 -  { name: google-plus, url: '' }
 -  { name: linkedin, url: '' }
 -  { name: skype, url: '' }
--  { name: github, url: 'https://github.com/acarril' }
+-  { name: github, url: 'https://github.com/SalmanAhmadKhan' }
 -  { name: codepen, url: '' }
 -  { name: stack-overflow, url: '' }
 -  { name: dribbble, url: '' }
