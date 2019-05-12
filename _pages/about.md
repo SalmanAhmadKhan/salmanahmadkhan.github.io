@@ -5,10 +5,10 @@ permalink: "/about/"
 order: 3
 ---
 
-I'm a PhD student at the Economics Department of Princeton University.
-My research interests include development and labor economics with a focus on education and health, as well as econometrics and data analysis. I have developed several [Stata, R and Python routines](/resources), all of which are available in my [Git repo](http://www.github.com/acarril). I am also writing a book on data analysis in R.
+I'm a PhD student at the Economics Department of University of Illinois, Chicago.
+My research interests include development and labor economics with a focus on education and health, as well as econometrics and data analysis. 
 
-Previously I was a research fellow at the [NBER](http://www.nber.org/), where I worked with professor [Christopher Neilson](https://econphilomath.github.io) in several of his projects.
+Previously I was a research associate at the [IDEAS](http://www.nber.org/), where I worked with professor [Christopher Neilson](https://econphilomath.github.io) in several of his projects.
 I also held the same position for two years at [J-PAL LAC](https://www.povertyactionlab.org/lac), working with Chris, as well as with professors [Sebastián Bustos](https://www.hks.harvard.edu/about/faculty-staff-directory/sebastian-bustos), [Dina Pomeranz](https://www.econ.uzh.ch/en/people/faculty/pomeranz.html) and [Gabriel Zucman](http://gabriel-zucman.eu/), based in Chile and The Dominican Republic.
 Before this, I was a high-school math and physics teacher at [Colegio Antares](http://www.colegioantares.cl/), a small school in the outskirts of Santiago, Chile. I did this as part of Enseña Chile, an NGO that follows the [Teach for All](http://teachforall.org/) model.
 
